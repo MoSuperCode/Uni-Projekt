@@ -2,6 +2,12 @@
 @import url("./register.css");
 @import url("./login.css");
 
+@media only screen and (max-width: 600px) {
+  body {
+    background-color: lightblue;
+  }
+}
+
 * {
   margin: 0;
 }
